@@ -10,7 +10,7 @@
 </head>
 
 <body>
-<script src="script.js">
+<script src="script.js"></script> 
 
 <h4>Current: <span id="mainCount">0</span></h4>
 <div class="container">
@@ -18,7 +18,7 @@
 </div>
   
 
-</script> 
+
 </body>
 
 </html>
