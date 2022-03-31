@@ -6,11 +6,11 @@
   <meta name="viewport" content="width=device-width">
   <title>replit</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
+  <script src="script.js">
 </head>
 
 <body>
-  <script src="script.js"></script>
-  
+<script src="script.js">
 
 <h4>Current: <span id="mainCount">0</span></h4>
 <div class="container">
@@ -18,7 +18,7 @@
 </div>
   
 
-  
+</script> 
 </body>
 
 </html>
